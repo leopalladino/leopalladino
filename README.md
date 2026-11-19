@@ -1,6 +1,6 @@
 # Leonardo Victor Palladino
 
-Data scientist working on credit risk and LLM systems at AMPF, a mutual aid association in Argentina. I build the models that decide who gets a loan, and evaluate the LLM chatbots that talk to our members on WhatsApp.
+Data scientist and AI engineer working on credit risk and LLMs at AMPF, a mutual aid association in Argentina. I build the models that decide who gets a loan, and evaluate the LLM chatbots that talk to our members on WhatsApp.
 
 ### Selected work
 
